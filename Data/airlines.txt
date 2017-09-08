@@ -1,5 +1,5 @@
-Airline database
-
+Arthur North
+Airline Database
 As of January 2012, the OpenFlights Airlines Database contains 5888 airlines. Each entry contains the following information:
 Airline ID 	Unique OpenFlights identifier for this airline.
 Name 	Name of the airline.
